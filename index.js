@@ -1,6 +1,5 @@
 const TelegramBot = require("node-telegram-bot-api");
 const dotenv = require("dotenv");
-const { exit } = require("process");
 
 dotenv.config();
 
