@@ -2,7 +2,7 @@
 
 > Posts a random dog image to a telegram channel.
 
-> Subscribe on [https://t.me/dailydoggos](https://t.me/dailydoggos)
+> Subscribe on [https://t.me/dailydogggo](https://t.me/dailydogggo)
 
 ## How it works
 
